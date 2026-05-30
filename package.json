@@ -1,0 +1,12 @@
+{
+  "name": "soluciones-academicas-web",
+  "version": "1.0.0",
+  "description": "Sitio web oficial de Soluciones Académicas de 2026",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
